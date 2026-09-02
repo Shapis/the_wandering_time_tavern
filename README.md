@@ -39,7 +39,7 @@ Not every project needs every folder. The structure should serve the story rathe
 - **Locations** — towns, buildings, regions, landmarks, and other places.
 - **Maps** — regional maps, local maps, diagrams, and other visual references.
 - **Quests** — ongoing, completed, planned, or discovered objectives.
-- **Secrets** — information that should remain hidden from players or characters until revealed.
+- **Secrets** — information that should remain hidden from characters until revealed.
 - **Sessions** — session notes, events, decisions, consequences, and continuity records.
 - **The Story** — the main narrative, plot, chapters, and overarching direction of the project.
 
@@ -69,4 +69,4 @@ More stories and campaigns can be added alongside it as the collection grows.
 
 ---
 
-*Every story starts somewhere.*
+_Every story starts somewhere._
